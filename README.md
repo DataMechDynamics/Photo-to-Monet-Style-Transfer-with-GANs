@@ -31,6 +31,3 @@ The model produces Monet-like images with varying levels of detail and artistic 
 
 
 
-
-## Acknowledgments
-This project was developed using the Kaggle "GAN Getting Started" dataset and builds upon techniques from state-of-the-art GAN research.
